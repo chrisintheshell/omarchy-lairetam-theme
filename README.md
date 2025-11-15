@@ -11,7 +11,7 @@ I created this theme because Material Design 2's color palette excels where it m
 </p>
 
 ### Font
-The font I'm using in the screenshots is called Geist Mono (https://vercel.com/font)
+The font I'm using in the screenshot is called Geist Mono (https://vercel.com/font)
 
 ## Installation
 

@@ -24,5 +24,5 @@ omarchy-theme-install https://github.com/chrisintheshell/omarchy-lairetam-theme
 ```
 
 ## Neovim Theme
-See the `lairetam-neovim` repository for the Neovim theme.
+See my `lairetam-neovim` repository for the Neovim theme.
 
